@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Scrumtious
+
+Scrumtious is an application that helps developers track their work, organize their daily tasks, and capture post-scrum discussions during daily stand-ups.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
